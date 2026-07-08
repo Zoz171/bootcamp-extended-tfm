@@ -23,7 +23,8 @@ All you have to do is to:
 4. paste the `main.lua` code then press `Submit`
 5. paste the map code `@[MAP-CODE]`.
 
-![alt text](image.png)
+<img width="766" height="393" alt="image" src="https://github.com/user-attachments/assets/fbcc0d1a-16ce-437c-92a6-b5801d00c1bf" />
+
 
 6. Submit and Enjoy!
 
