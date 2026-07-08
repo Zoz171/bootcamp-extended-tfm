@@ -1,0 +1,3 @@
+[submodule "tfm-vscode"]
+	path = tfm-vscode
+	url = https://github.com/MouseTool/tfm-vscode.git
