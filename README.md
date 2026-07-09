@@ -13,6 +13,7 @@ Tool | Description
 U Key | Gives cheese to player.
 C Key | Marks current position as checkpoint.
 Cursor Left <br>Click| Moves player to cursor position.
+G Key | Kill/Mort player.
 
 ## Setup
 

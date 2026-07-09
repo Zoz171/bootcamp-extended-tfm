@@ -51,6 +51,8 @@ function eventKeyboard(player, key, down, x, y)
     elseif key == 67 then -- C
         playersCheckpoint[player] = {x = x, y = y}
         print(playersCheckpoint)
+    elseif key == 71 then -- G
+        tfm.exec.killPlayer(player)
     end
 end
 
