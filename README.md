@@ -6,10 +6,10 @@ A custom module for bootcamp addicts and trainee, the module offers tweaks to he
 
 - Unlimited time remaining (essentially play at your pace)
     - *(PS: I could have just turned the time, but for some reason the red indicator of the timer triggers me)
-- "Tools":
+- "Keyboard Shortcuts":
 
-Tool | Description
------|------------
+Key Shortcuts | Description
+--------------|------------
 U Key | Gives cheese to player.
 C Key | Marks current position as checkpoint.
 Cursor Left <br>Click| Moves player to cursor position.
@@ -24,8 +24,7 @@ All you have to do is to:
 4. paste the `main.lua` code then press `Submit`
 5. paste the map code `@[MAP-CODE]`.
 
-<img width="766" height="393" alt="image" src="https://github.com/user-attachments/assets/fbcc0d1a-16ce-437c-92a6-b5801d00c1bf" />
-
+![alt text](images/tribe-house.png)
 
 6. Submit and Enjoy!
 
